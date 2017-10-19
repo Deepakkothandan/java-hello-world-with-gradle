@@ -35,6 +35,8 @@ apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'application'
 
+version = '0.1.0'
+
 mainClassName = 'hello.HelloWorld'
 
 // tag::repositories[]
